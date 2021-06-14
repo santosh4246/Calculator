@@ -1,0 +1,14 @@
+package New;
+
+public class New {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hello Santosh");
+
+		float a = 05031991f;
+		System.out.println(a);
+		
+	}
+
+}
